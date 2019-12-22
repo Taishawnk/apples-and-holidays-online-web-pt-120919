@@ -57,7 +57,9 @@ def all_holidays_with_bbq(holiday_hash)
 
 return holiday_arr
 end
-all_holidays_with_bbq(holiday_supplies)
+
+def all_holidays_with_bbq(holiday_supplies)
+end
 
 
 
